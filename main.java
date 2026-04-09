@@ -3,7 +3,7 @@ import java.util.Scanner; // 1. Importando a classe Scanner
 public class Main {
 
     public static void main(String[] args) {
-
+    //comentário
         Scanner leitor = new Scanner(System.in);
         int numero1, numero2;
         System.out.println("Digite seu nome: ");
